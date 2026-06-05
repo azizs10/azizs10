@@ -1,48 +1,27 @@
-# Hi there, I'm azizs10 👋
-
-## 💫 About Me:
-
-- 🔭 **I’m currently working on:** Custom ESP32 hardware modules
-- 👯 **I’m looking to collaborate on:** C# backend tools, embedded systems, and Linux automation
-- 🤝 **I’m looking for help with:** How to develop my own OS and a full-fledged AI
-- 🌱 **I’m currently learning:** Mobile and desktop development, driver development
-- 💬 **Ask me about:** Fedora Workstation, KernelSU, SuSFS, flashing custom ROMs/Recovery, and bypassing Play Integrity
-- ⚡ **Fun fact:** I have two laptops: one runs on Windows and the other runs on Linux.
-
----
-
-## 💻 Tech Stack:
-
-### Languages & Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Hardware & Embedded
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-### OS & Tools
-![Fedora](https://img.shields.io/badge/Fedora-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizs10&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizs10&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Home Assistant" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR" />
+  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine" />
 </p>
 
----
+<h1>📊 GitHub Stats:</h1>
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=azizs10&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" /><br>
+</p>
 
-## 💰 Support My Work:
+<h2>💰 You can help me by Donating</h2>
+<p>
+  <a href="https://buymeacoffee.com/azizs">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />
+  </a>
+</p>
 
-If you find my projects helpful, consider supporting me!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/azizs)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt">
