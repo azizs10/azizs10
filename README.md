@@ -6,7 +6,7 @@
 - 👯 **I’m looking to collaborate on:** C# backend tools, embedded systems, and Linux automation
 - 🤝 **I’m looking for help with:** How to develop my own OS and a full-fledged AI
 - 🌱 **I’m currently learning:** Mobile and desktop development, driver development
-- 💬 **Ask me about:** Fedora Workstation, Embedded systems prototyping, AOSP & Android ROM modification, C# / .NET fundamentals
+- 💬 **Ask me about:** Fedora Workstation, KernelSU, SuSFS, flashing custom ROMs/Recovery, and bypassing Play Integrity
 - ⚡ **Fun fact:** I have two laptops: one runs on Windows and the other runs on Linux.
 
 ---
@@ -14,11 +14,11 @@
 ## 💻 Tech Stack:
 
 ### Languages & Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Hardware & Embedded
@@ -45,4 +45,4 @@
 
 If you find my projects helpful, consider supporting me!
 
-https://buymeacoffee.com/azizs
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/azizs)
