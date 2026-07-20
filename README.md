@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my project TripTJ<br><br>👯 I’m looking to collaborate on C# backend tools, embedded systems, and Linux automation<br><br>🤝 I’m looking for help with How to develop my own OS and a full-fledged AI<br><br>🌱 I’m currently learning Mobile and desktop development, driver development<br><br>💬 Ask me about Fedora Workstation, flashing custom ROMs/Recovery, <br><br>⚡️ Fun fact I have two laptops: one runs on Windows 11 and the other runs on Linux Fedora.
+🔭 I’m currently working on my project TripTJ and Smart-Scholl-Manager<br><br>👯 I’m looking to collaborate on C# backend tools, embedded systems, and Linux automation<br><br>🤝 I’m looking for help with How to develop my own OS and a full-fledged AI<br><br>🌱 I’m currently learning Mobile and desktop development, driver development<br><br>💬 Ask me about Fedora Workstation, flashing custom ROMs/Recovery, <br><br>⚡️ Fun fact I have two laptops: one runs on Windows 11 and the other runs on Linux Fedora.
 
 
 ## 🌐 Socials:
